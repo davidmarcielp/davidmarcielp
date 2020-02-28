@@ -2,96 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on ZDoc</title>
-    <link>davidmarcielp.github.io/davidmarcielp/docs/</link>
+    <link>davidmarcielp.github.io/docs/</link>
     <description>Recent content in Docs on ZDoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="davidmarcielp.github.io/davidmarcielp/docs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="davidmarcielp.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Getting Started</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/gettingstarted/</link>
+        <link>davidmarcielp.github.io/docs/gettingstarted/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/gettingstarted/</guid>
+        <guid>davidmarcielp.github.io/docs/gettingstarted/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Content Management</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/contentmanagement/</link>
+        <link>davidmarcielp.github.io/docs/contentmanagement/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/contentmanagement/</guid>
+        <guid>davidmarcielp.github.io/docs/contentmanagement/</guid>
         <description></description>
       </item>
       
       <item>
         <title>APIs</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/apis/</link>
+        <link>davidmarcielp.github.io/docs/apis/</link>
         <pubDate>Fri, 28 Feb 2020 00:36:39 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/apis/</guid>
+        <guid>davidmarcielp.github.io/docs/apis/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/relatedcontent/</link>
+        <link>davidmarcielp.github.io/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/relatedcontent/</guid>
+        <guid>davidmarcielp.github.io/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/pageresources/</link>
+        <link>davidmarcielp.github.io/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/pageresources/</guid>
+        <guid>davidmarcielp.github.io/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/pagebundles/</link>
+        <link>davidmarcielp.github.io/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/pagebundles/</guid>
+        <guid>davidmarcielp.github.io/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/contentfortmats/</link>
+        <link>davidmarcielp.github.io/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/contentfortmats/</guid>
+        <guid>davidmarcielp.github.io/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/imageprocessing/</link>
+        <link>davidmarcielp.github.io/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/imageprocessing/</guid>
+        <guid>davidmarcielp.github.io/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>CROSS - RECIBOS</title>
-        <link>davidmarcielp.github.io/davidmarcielp/docs/recibos/</link>
+        <link>davidmarcielp.github.io/docs/recibos/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/davidmarcielp/docs/recibos/</guid>
+        <guid>davidmarcielp.github.io/docs/recibos/</guid>
         <description>CROSS - RECIBOS v1.1.0  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  API que recoge todas las funcionalidades relativas a los recibos gestionados por la Mutua Madrileña en sus distintos ramos.
 Base URLs:
