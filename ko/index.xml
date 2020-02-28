@@ -2,168 +2,168 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZDoc</title>
-    <link>davidmarcielp.github.io/ko/</link>
+    <link>davidmarcielp.github.io/davidmarcielp/ko/</link>
     <description>Recent content on ZDoc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
-        <atom:link href="davidmarcielp.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="davidmarcielp.github.io/davidmarcielp/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>May 2019</title>
-        <link>davidmarcielp.github.io/ko/updates/2019_may/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_may/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/updates/2019_may/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_may/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Basic Usage</title>
-        <link>davidmarcielp.github.io/ko/docs/gettingstarted/basicusage/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/gettingstarted/basicusage/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>April 2019</title>
-        <link>davidmarcielp.github.io/ko/updates/2019_april/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/updates/2019_april/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_april/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>davidmarcielp.github.io/ko/docs/gettingstarted/configuration/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/gettingstarted/configuration/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>March 2019</title>
-        <link>davidmarcielp.github.io/ko/updates/2019_march/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_march/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/updates/2019_march/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_march/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>davidmarcielp.github.io/ko/docs/gettingstarted/installation/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/gettingstarted/installation/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>February 2019</title>
-        <link>davidmarcielp.github.io/ko/updates/2019_february/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/updates/2019_february/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_february/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>davidmarcielp.github.io/ko/docs/gettingstarted/quickstart/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/gettingstarted/quickstart/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>January 2019</title>
-        <link>davidmarcielp.github.io/ko/updates/2019_january/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_january/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/updates/2019_january/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/updates/2019_january/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>davidmarcielp.github.io/ko/docs/relatedcontent/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/relatedcontent/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>davidmarcielp.github.io/ko/docs/pageresources/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/pageresources/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>davidmarcielp.github.io/ko/docs/pagebundles/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/pagebundles/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>davidmarcielp.github.io/ko/docs/contentfortmats/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/contentfortmats/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>davidmarcielp.github.io/ko/docs/imageprocessing/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/imageprocessing/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Shortcodes</title>
-        <link>davidmarcielp.github.io/ko/docs/contentmanagement/shortcodes/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/shortcodes/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/contentmanagement/shortcodes/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Frontmatter</title>
-        <link>davidmarcielp.github.io/ko/docs/contentmanagement/frontmatter/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/contentmanagement/frontmatter/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>davidmarcielp.github.io/ko/blog/markdown-syntax/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/blog/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/blog/markdown-syntax/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/blog/markdown-syntax/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -172,19 +172,19 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>davidmarcielp.github.io/ko/docs/contentmanagement/sections/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/contentmanagement/sections/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>
         <title>Rich Content</title>
-        <link>davidmarcielp.github.io/ko/blog/rich-content/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/blog/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/blog/rich-content/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/blog/rich-content/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -193,10 +193,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Placeholder Text</title>
-        <link>davidmarcielp.github.io/ko/blog/placeholder-text/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/blog/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/blog/placeholder-text/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/blog/placeholder-text/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -205,10 +205,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Emoji Support</title>
-        <link>davidmarcielp.github.io/ko/blog/emoji-support/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/blog/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/blog/emoji-support/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/blog/emoji-support/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -217,10 +217,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>CROSS - RECIBOS</title>
-        <link>davidmarcielp.github.io/ko/docs/apis/recibos/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/recibos/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/apis/recibos/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/recibos/</guid>
         <description>CROSS - RECIBOS v1.1.0  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  API que recoge todas las funcionalidades relativas a los recibos gestionados por la Mutua Madrileña en sus distintos ramos.
 Base URLs:
@@ -230,10 +230,10 @@ Authentication  API Key (clientIdHeader)  Parameter Name: X-IBM-Client-Id, in: h
       
       <item>
         <title>Rakam API Documentation</title>
-        <link>davidmarcielp.github.io/ko/docs/apis/rakam/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/rakam/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/apis/rakam/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/rakam/</guid>
         <description>Rakam API Documentation v1.0  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  An analytics platform API that lets you create your own analytics services.
 Base URLs:
@@ -245,10 +245,10 @@ Authentication   API Key (ui_read_key)
       
       <item>
         <title>Swagger Petstore</title>
-        <link>davidmarcielp.github.io/ko/docs/apis/petstore/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/petstore/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/apis/petstore/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/petstore/</guid>
         <description>Swagger Petstore v1.0.3  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  This is a sample server Petstore server. You can find out more about Swagger at http://swagger.io or on irc.freenode.net, #swagger. For this sample, you can use the api key special-key to test the authorization filters.
 Base URLs:
@@ -258,10 +258,10 @@ Base URLs:
       
       <item>
         <title>Swagger Petstore</title>
-        <link>davidmarcielp.github.io/ko/docs/apis/prueba/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/prueba/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/apis/prueba/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/prueba/</guid>
         <description>Swagger Petstore v1.0.3  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  This is a sample server Petstore server. You can find out more about Swagger at http://swagger.io or on irc.freenode.net, #swagger. For this sample, you can use the api key special-key to test the authorization filters.
 Base URLs:
@@ -271,10 +271,10 @@ Base URLs:
       
       <item>
         <title>Swagger Petstore 2</title>
-        <link>davidmarcielp.github.io/ko/docs/apis/petstore2/</link>
+        <link>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/petstore2/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>davidmarcielp.github.io/ko/docs/apis/petstore2/</guid>
+        <guid>davidmarcielp.github.io/davidmarcielp/ko/docs/apis/petstore2/</guid>
         <description>Swagger Petstore v1.0.3  Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
  This is a sample server Petstore server. You can find out more about Swagger at http://swagger.io or on irc.freenode.net, #swagger. For this sample, you can use the api key special-key to test the authorization filters.
 Base URLs:
